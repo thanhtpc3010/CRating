@@ -1,0 +1,4 @@
+CRIndex{id=1, month=2, year=2024, addToCartRatio=0.05726872246696035, checkOutRatio=0.0030837004405286344}
+CRIndex{id=1, month=3, year=2024, addToCartRatio=0.0, checkOutRatio=0.0}
+CRIndex{id=2, month=3, year=2024, addToCartRatio=0.2, checkOutRatio=0.2}
+CRIndex{id=2, month=2, year=2024, addToCartRatio=0.030952380952380953, checkOutRatio=0.0033333333333333335}
